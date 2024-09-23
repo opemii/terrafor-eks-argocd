@@ -1,6 +1,7 @@
 # Bootstrapping Kubernetes (EKS) with Argo CD using Terraspace
 
-This repository contains a Terraspace project that deploys the necessary AWS resources to bootstrap ArgoCD on an EKS cluster. The resources deployed include:
+This repository (see my gitlab repository [terraform-eks-argocd](git@gitlab.com:assessment4622826/terraform-eks-argocd.git)
+ contains a Terraspace project that deploys the necessary AWS resources to bootstrap ArgoCD on an EKS cluster. The resources deployed include:
 
 - VPC with public and private subnets
 - IAM roles and instance profile
